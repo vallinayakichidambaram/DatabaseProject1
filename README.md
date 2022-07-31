@@ -30,6 +30,7 @@ A Supplier can deliver multiple products.
 Below is the list of files attached in this project
 1. ER Diagram - Showing the relation between various entities
 2. Data Model - Details the tables and the respective columns and their relations
+To see data Model, click here - https://drawsql.app/freshworks/diagrams/ecommercedb
 3. Scripts - DDL scripts for creating database objects
 4. Initial Data Load - for populating the tables
 5. Packages - For quering the database (Search queries)
